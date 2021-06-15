@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "193106415659",
+    "project_id": "task-manager-4a51d",
+    "storage_bucket": "task-manager-4a51d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193106415659:android:1ce627b90fa7886fb31a6e",
+        "android_client_info": {
+          "package_name": "my.hafisdavies.flutter_firebase_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193106415659-sgabblpee9icl4f6mvs5o22344f0ubv8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgfjrLcmXIn-Ix4yejT3f6F6QGPbZq5Qw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193106415659-sgabblpee9icl4f6mvs5o22344f0ubv8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
